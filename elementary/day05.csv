@@ -1,224 +1,200 @@
-activity,활동
-advice,조언
-airport,공항
-anger,분노
-apartment,아파트
-artist,예술가
-audience,청중
-basket,바구니
-behavior,행동
-bottom,바닥
-branch,나뭇가지
-bridge,다리
-camp,캠프|야영
-capital,수도|자본
-career,직업|경력
-cause,원인
-ceiling,천장
-chance,기회
-character,성격|등장인물
-circle,원
-client,고객
-clue,단서
-college,단과대학
-community,공동체
-competition,경쟁
-connection,연결
-crowd,군중
-culture,문화
-customer,고객
-damage,손해
-degree,정도|학위
-design,디자인
-detail,세부 사항
-difference,차이
-direction,방향
-discussion,토론
-distance,거리
-effect,효과
-emotion,감정
-entrance,입구
-environment,환경
-equipment,장비
-excuse,변명
-experience,경험
-factor,요소
-figure,수치|인물|모습
-flight,비행
-force,힘
-freedom,자유
+﻿here,여기
+there,저기
+why,왜
+how,어떻게|얼마나
+when,언제
+where,어디에
+what,무엇
+who,누구
+whose,누구의
+which,어느 것
+if,만약 ~라면
+so,그래서
+because,~때문에
+but,그러나
+or,또는
+and,그리고
+me,나를|나에게
+you,너|당신
+he,그
+she,그녀
+it,그것
+we,우리
+they,그들|그것들
+my,나의
+your,너의|당신의
+his,그의
+her,그녀의
+its,그것의
+our,우리의
+their,그들의|그것들의
+mine,나의 것
+yours,너의 것|당신의 것
+hers,그녀의 것
+ours,우리의 것
+theirs,그들의 것
+this,이것
+that,저것
+these,이것들
+those,저것들
+and,그리고
+but,그러나
+or,또는|~이거나
+so,그래서
+because,때문에
+if,만약 ~라면
+before,전에
+after,후에
+while,~하는 동안에
+since,~이래로|~때문에
+until,~까지
+with,~와 함께
+without,~없이
+at,~에|~에서
+by,~에 의해|~옆에
+for,~을 위해|~동안
+from,~로부터
+of,~의
+to,~로|~에게
+about,~에 대하여
+over,~위에|~넘어
+through,~을 통하여
+among,~사이에
+plus,더하기
+minus,빼기
+times,곱하기
+divided by,~으로 나누어진
+cent,센트
+dollar,달러
+won,원 (화폐)
+price,가격
+cost,비용|~의 비용이 들다
+spend,소비하다|쓰다
+save,저축하다|절약하다
+rich,부유한
+poor,가난한
+job,직업
+work,일하다|일
+office,사무실
+boss,상사
+worker,노동자|일꾼
+meeting,회의
+holiday,휴일|방학
+vacation,휴가|방학
+rest,휴식|쉬다
+break,휴식|깨다
+dream,꿈|꿈꾸다
+hope,희망|바라다
+wish,소망|바라다
 future,미래
-goal,목표
-government,정부
-habit,습관
-height,높이
-history,역사
-hope,희망
-hospital,병원
-imagination,상상력
-information,정보
-injury,부상
-interest,관심
-invention,발명
-judge,판사|심판
-justice,정의
-kindness,친절
-language,언어
-level,수준
-limit,한계
-local,지역 주민
-luck,운
-magazine,잡지
-majority,대다수
-material,재료
-memory,기억
-message,메시지
-method,방법
-middle,중앙
-minute,분
-moment,순간
-mountain,산
-movement,움직임
-neighbor,이웃
-object,물체
-opinion,의견
-opportunity,기회
-organization,조직
-pain,고통
-parent,부모
-patience,인내
-performance,공연
-period,기간
-personal,개인적인
-piece,조각
-planet,행성
-plate,접시
-population,인구
-position,위치
-power,힘
-pressure,압력
-principle,원칙
-process,과정
-product,제품
-progress,진보
-promise,약속
-quality,품질
-question,질문
-range,범위
-reason,이유
-relation,관계
-religion,종교
-report,보고서
-research,연구
-result,결과
-risk,위험
-role,역할
-rule,규칙
-safety,안전
-salary,급여
-science,과학
-section,부분
-sense,감각
-service,서비스
-side,측면
-silence,침묵
-skill,기술
-society,사회
-source,원천
-speed,속도
-spirit,정신
-station,역
-success,성공
-suggestion,제안
-surface,표면
-system,시스템
-target,목표
-temperature,온도
-theory,이론
-thought,생각
-throw,던지기
-tool,도구
-top,정상
-touch,접촉
-treatment,치료
-truth,진실
-value,가치
-vehicle,차량
-victory,승리
-view,견해|시야
-volume,부피|음량
-weather,날씨
-weight,무게
-western,서양의
-wind,바람
-witness,목격자
-wonder,경이
-world,세계
-writer,작가
-youth,젊음
-accurate,정확한
-additional,추가의
-alive,살아있는
-available,이용 가능한
-basic,기본적인
-capable,능력 있는
-central,중앙의
-civil,시민의
-commercial,상업적인
-complex,복잡한
-creative,창의적인
-current,현재의
-dependent,의존하는
-domestic,국내의
-due,만기가 된|~때문에
-effective,효과적인
-efficient,효율적인
-entire,전체의
-essential,필수적인
-exact,정확한
-familiar,친숙한
-final,최종의
-former,이전의
-ideal,이상적인
-independent,독립적인
-initial,초기의
-joint,공동의
-junior,손아래의
-key,주요한
-latest,최신의
-legal,법적인
-limited,제한된
-major,주요한
-maximum,최대의
-military,군사의
-minimum,최소의
-necessary,필수적인
-obvious,분명한
-official,공식적인
-opposite,반대의
-ordinary,보통의
-particular,특정한
-permanent,영구적인
-physical,육체적인
-political,정치적인
-primary,주된|초기의
-private,사적인
-professional,직업적인
-proper,적절한
-raw,날것의|가공하지 않은
-regular,규칙적인
-responsible,책임이 있는
-senior,손위의
-serious,심각한
+past,과거
+present,현재|선물
+suddenly,갑자기
+finally,마침내
+always,항상
+usually,보통
+often,자주
+sometimes,때때로
+never,결코 ~않다
+again,다시
+only,오직|단지
+also,또한
+too,또한|너무
+very,매우
+so,매우|그래서
+just,단지|막
+maybe,아마도
+perhaps,아마도
+sure,확실한
+certain,확실한
+possible,가능한
+impossible,불가능한
+ready,준비된
+true,사실인
+real,진짜의
+fake,가짜의
+empty,빈
+full,가득 찬
+heavy,무거운
+light,가벼운
 smooth,부드러운
-social,사회적인
-standard,표준의
-straight,직선의
-technical,기술적인
-temporary,일시적인
-traditional,전통적인
-unique,독특한
-unusual,특이한
-upper,위쪽의
-various,다양한
-willing,기꺼이 하는
+rough,거친
+soft,부드러운
+hard,단단한|어려운
+deep,깊은
+shallow,얕은
+wide,넓은
+narrow,좁은
+straight,곧은
+curved,구부러진
+round,둥근
+square,사각형의
+triangle,삼각형
+circle,원
+shape,모양
+size,크기
+area,지역|면적
+volume,부피|음량
+weight,무게
+distance,거리
+speed,속도
+hour,시간 (60분)
+minute,분
+second,초
+quickly,빨리
+slowly,천천히
+carefully,조심스럽게
+easily,쉽게
+loudly,시끄럽게
+softly,부드럽게|조용히
+happily,행복하게
+sadly,슬프게
+angrily,화나서
+nicely,멋지게|친절하게
+kindly,친절하게
+well,잘
+badly,나쁘게
+better,더 좋은
+worse,더 나쁜
+best,가장 좋은
+worst,가장 나쁜
+more,더 많은
+less,더 적은
+most,가장 많은
+least,가장 적은
+enough,충분한
+too much,너무 많은
+little bit,조금
+a lot,많이
+something,무엇인가
+nothing,아무것도 ~않다
+everything,모든 것
+anything,아무거나
+someone,누군가
+no one,아무도 ~않다
+everyone,모두
+anyone,누구든
+somewhere,어딘가에
+nowhere,어디에도 ~않다
+everywhere,어디든지
+anywhere,어디든
+zoo,동물원
+robot,로봇
+magic,마법
+secret,비밀의|비밀
+ticket,표|티켓
+pocket,주머니
+ocean,대양
+village,마을
+museum,박물관
+factory,공장
+guitar,기타
+piano,피아노
+camera,카메라
+telescope,망원경
+space,우주|공간
+planet,행성
+rainbow,무지개
+shadow,그림자
+health,건강
+future,미래
