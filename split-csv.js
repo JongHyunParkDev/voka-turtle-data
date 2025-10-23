@@ -34,8 +34,28 @@ function splitCSV(inputFilePath, linesPerFile = 40) {
     }
 }
 
-const inputFile = "aa.csv";
-const linesPerFile = 40;
+const args = process.argv.slice(2);
+
+let inputFile = "aa.csv";
+let linesPerFile = 40;
+
+if (args.length >= 1) {
+    inputFile = args[0];
+}
+if (args.length >= 2) {
+    const parsedLines = parseInt(args[1]);
+    if (!isNaN(parsedLines) && parsedLines > 0) {
+        linesPerFile = parsedLines;
+    } else {
+        console.error("오류: 두 번째 인자는 양의 정수여야 합니다.");
+        process.exit(1);
+    }
+}
+
+if (!fs.existsSync(inputFile)) {
+    console.error(`오류: 파일 '${inputFile}'을 찾을 수 없습니다.`);
+    process.exit(1);
+}
 
 console.log("CSV 파일 분할을 시작합니다...");
 console.log(`입력 파일: ${inputFile}`);
