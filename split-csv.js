@@ -19,7 +19,8 @@ function splitCSV(inputFilePath, linesPerFile = 40) {
             const chunk = nonEmptyLines.slice(startIndex, endIndex);
             
             const originalFileName = path.basename(inputFilePath, ".csv");
-            const outputFileName = `${originalFileName}_day${i + 1}.csv`;
+            const postfix = i + 51 < 10 ? `0${i + 11}` : i + 51;
+            const outputFileName = `${originalFileName}_day${postfix}.csv`;
             const outputPath = path.join(path.dirname(inputFilePath), outputFileName);
             
             fs.writeFileSync(outputPath, chunk.join("\n"), "utf8");
